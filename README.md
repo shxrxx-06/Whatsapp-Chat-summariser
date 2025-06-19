@@ -1,6 +1,5 @@
 # Whatsapp-Chat-summariser
 
-hatsApp Chat Summarizer
 Overview
 This is an AI-powered WhatsApp chat summarizer built with Streamlit and Google Gemini. It's designed for police officers to analyze WhatsApp chat exports and extract structured summaries, actionable tasks, and flagged keywords.
 
