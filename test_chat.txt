@@ -1,0 +1,10 @@
+[19/06/2025, 08:30:00] SI Sharma: Team, we have a report about suspicious activity near Sector 9 market.
+[19/06/2025, 08:31:00] ASI Ramesh: Roger that. I’ll head to the location with Constable Anil.
+[19/06/2025, 08:32:00] SI Sharma: Coordinate with the CCTV team as well. We need footage by 11 AM.
+[19/06/2025, 08:34:00] Constable Anil: CCTV unit confirmed. Will collect footage shortly.
+[19/06/2025, 08:35:00] ASI Ramesh: Action: Collect CCTV footage
+[19/06/2025, 08:36:00] SI Sharma: Also, update SHO sir about this. Could be linked to last week's chain snatching.
+[19/06/2025, 08:38:00] Constable Anil: Noted. Will send an update after initial check.
+
+Keyword: Suspicious, Chain Snatching, CCTV, SHO
+
