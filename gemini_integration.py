@@ -1,6 +1,6 @@
 import google.generativeai as genai
 
-API_KEY = "AIzaSyBiFtppOR5vsvCqPI1a8jRcT-82Q3O-j94"
+API_KEY = "your_api_key"
 genai.configure(api_key=API_KEY)
 
 def get_gemini_response(chat_history):
